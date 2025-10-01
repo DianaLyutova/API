@@ -1,3 +1,3 @@
 # API
-## 1. [Тестирование API](https://www.postman.com/d7211400-1595952/s-workspace/folder/995ecbd/demoshopping?action=share&creator=48842919&active-environment=48842919-276af852-d64c-4c2c-8d90-ffd016861c84)
+## 1. [Тестирование API](https://dianalyutova-6301292.postman.co/workspace/%D0%94%D0%B8%D0%B0%D0%BD%D0%B0-%D0%9B%D1%8E%D1%82%D0%BE%D0%B2%D0%B0's-Workspace~303f18eb-1c77-4315-8481-c3fdc97144bb/request/48936366-1384fe78-aeb6-419e-87c7-48754987583e?action=share&creator=48936366&ctx=documentation)
 ## 2. [Run](https://www.postman.com/d7211400-1595952/s-workspace/run/48842919-0f56d673-d7f0-4b33-ad26-ecf57e454a15)
